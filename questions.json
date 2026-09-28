@@ -1,0 +1,41 @@
+{
+  "heading": "G6_Counterclaims(Writing)",
+  "topics": [
+    {
+      "heading": "Counterclaims(Writing)",
+      "questions": [
+        {
+          "questionNo": 1,
+          "type": "short",
+          "question": "Create a sentence using the word “outweigh.”",
+          "text_area": "",
+          "answer": ["The long-term benefits of regular exercise outweigh the temporary discomfort of waking up early."]
+        },
+        {
+          "questionNo": 2,
+          "type": "short",
+          "question": "Create a sentence using the word “critics.”",
+          "text_area": "",
+          "answer": ["Critics of the new policy argue that it may increase school expenses."]
+        },
+        {
+          "questionNo": 3,
+          "type": "short",
+          "question": "Create a sentence using the word “interactive.”",
+          "text_area": "",
+          "answer": ["The science exhibition was interactive because students could conduct simple experiments themselves."]
+        },
+        {
+          "questionNo": 4,
+          "type": "long",
+          "question": "<b>Write an essay of about 150-200 words on the topic below. </b><br>Remember to include: <ul><li>A claim (your main argument). </li><li>At least one counterclaim (the opposite view). </li><li>A refutation (explain why the counterclaim is weaker than your claim). </li><li>A clear introduction, body, and conclusion. </li></ul>Topic: Should there be fixed play hours for kids aged 8-10?",
+
+          "text_area": "",
+          "answer": [""]
+        }
+
+
+      ]
+    }
+  ]
+}
